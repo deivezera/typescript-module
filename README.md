@@ -26,7 +26,7 @@ Key TypeScript Features Used:
 
 - Classes to represent User and AuthService
 - Lists (arrays) to store users in memory
-- Asynchronous functions to simulate database operations
+- Asynchronous functions to storage users in database
 - Recursion for operations such as password validation attempts
 - Exception handling with try/catch blocks for login errors
 
