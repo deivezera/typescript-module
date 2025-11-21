@@ -6,7 +6,7 @@ The project demonstrates TypeScript concepts such as strong typing, classes, asy
 
 By creating this project, I aimed to deepen my understanding of TypeScript’s syntax, type system, and integration with Node.js. This helped me explore how TypeScript provides better tooling, early error detection, and clean, maintainable code — all essential skills for building scalable applications.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://www.youtube.com/watch?v=5Sj3VzZPcAI)
 
 # Development Environment
 
